@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "name": "harsh",
+      "email": "harsh@gmail.com",
+      "password": "1244",
+      "id": 1
+    },
+    {
+      "name": "vishal",
+      "email": "vishal@gmail.com",
+      "password": "1234",
+      "id": 2
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "KFC",
+      "contact": "1234",
+      "address": "kfc@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Pizza Point",
+      "contact": "1234",
+      "address": "pizza.com",
+      "id": 2
+    },
+    {
+      "name": "Lapinoz",
+      "contact": "1234",
+      "address": "lapinoz@gmail.com",
+      "id": 3
+    }
+  ]
+}
